@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12895" started-at="2020-08-18T00:34:31Z" finished-at="2020-08-18T00:34:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12895" started-at="2020-08-18T00:34:31Z" finished-at="2020-08-18T00:34:43Z">
+      <class name="com.Testcase.AdminTestCase">
+        <test-method status="PASS" signature="orangeHrmLo()[pri:0, instance:com.Testcase.AdminTestCase@13acb0d1]" name="orangeHrmLo" is-config="true" duration-ms="9384" started-at="2020-08-17T17:34:31Z" finished-at="2020-08-17T17:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHrmLo -->
+        <test-method status="PASS" signature="admintab()[pri:0, instance:com.Testcase.AdminTestCase@13acb0d1]" name="admintab" duration-ms="2299" started-at="2020-08-17T17:34:40Z" finished-at="2020-08-17T17:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- admintab -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.Testcase.AdminTestCase@13acb0d1]" name="closebrowser" is-config="true" duration-ms="1187" started-at="2020-08-17T17:34:42Z" finished-at="2020-08-17T17:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.Testcase.AdminTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
